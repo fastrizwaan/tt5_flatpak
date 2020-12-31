@@ -19,7 +19,7 @@ cd tt5_flatpak
 ```
 
 copy tt5.zip to tt5_flatpak/ directory 
-Hint: search "Typing Tutor 5 5" 
+tt5 is also known as "Typing Tutor 5 5" 
 
 ### Then run the build
 
