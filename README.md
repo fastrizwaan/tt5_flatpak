@@ -4,7 +4,7 @@ Typing Tutor V - DOS based using DOSBOX
 
 ![](https://github.com/fastrizwaan/tt5_flatpak/blob/main/ScreenShot.png)
 
-
+find tt5.zip online, typing tutor v 1991 (abandonware)
 
 #### install flathub repo and freedesktop sdk 18.08
 ```
