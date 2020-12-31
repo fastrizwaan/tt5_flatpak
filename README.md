@@ -4,7 +4,7 @@ Typing Tutor V - DOS based using DOSBOX
 
 ![](https://github.com/fastrizwaan/tt5_flatpak/blob/main/ScreenShot.png)
 
-find tt5.zip online, typing tutor v 1991 (abandonware)
+
 
 #### install flathub repo and freedesktop sdk 18.08
 ```
@@ -16,6 +16,14 @@ flatpak install flathub org.freedesktop.Sdk/x86_64/18.08
 ```
 git clone https://github.com/fastrizwaan/tt5_flatpak.git
 cd tt5_flatpak
+```
+
+copy tt5.zip to tt5_flatpak/ directory 
+Hint: search "Typing Tutor 5 5" 
+
+### Then run the build
+
+```
 
 # build
 flatpak-builder --force-clean build-dir io.github.tt.yml
