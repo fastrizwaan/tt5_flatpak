@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=tt
+Comment=Typing Tutor 5 
+Exec=tt
+Icon=io.github.tt
+Terminal=false
+Type=Application
+Categories=System;Emulator;
