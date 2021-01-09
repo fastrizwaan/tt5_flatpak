@@ -6,10 +6,10 @@ Typing Tutor V - DOS based using DOSBOX
 
 
 
-#### install flathub repo and freedesktop sdk 18.08
+#### install flathub repo and freedesktop sdk 20.08
 ```
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
-flatpak install flathub org.freedesktop.Sdk/x86_64/18.08
+flatpak install flathub org.freedesktop.Sdk/x86_64/20.08
 ```
 
 #### clone and build flatpak from yaml
